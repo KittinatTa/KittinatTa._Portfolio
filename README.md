@@ -1,6 +1,6 @@
-# Kittinat's Simple Portfolio
+# Kittinat T. - Geomatics Engineering Portfolio
 
-A clean and professional portfolio website showcasing my skills, projects, and experiences.
+A professional portfolio website showcasing my expertise in GIS, offshore operations, and geomatics engineering.
 
 ## Features
 - **Responsive Design:** Optimized for all screen sizes.
@@ -22,7 +22,7 @@ A clean and professional portfolio website showcasing my skills, projects, and e
 ## 📝 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KittinatTa/Kittinat-Simple-Portfolio.git
+   git clone https://github.com/KittinatTa/Kittinat-T-Portfolio.git
    ```
 2. Open `docs/index.html` in your browser.
 
